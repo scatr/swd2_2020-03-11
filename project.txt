@@ -2,4 +2,6 @@ Some initial data analysis to identify how inflammation change over time after s
 
 Jane is a Data Scientist and Samit is a statistician.
 
-We'll continue to determine who is responsible for waht in our project. 
+We'll continue to determine who is responsible for what in our project. 
+
+We may need to bring a third person into this project with Python programming skills.
