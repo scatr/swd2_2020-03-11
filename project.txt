@@ -4,6 +4,8 @@ Jane is a Data Scientist and Samit is a statistician.
 
 We'll continue to determine who is responsible for what in our project. 
 
-We may need to bring a third person into this project with Python and R programming skills.
+We may need to bring a third person into this project with Python and R programming skills. Fenn can't apply.
 
 We need more coffee in the kitchen.
+
+
